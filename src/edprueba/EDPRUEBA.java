@@ -6,7 +6,7 @@ package edprueba;
 
 /**
  *
- * @author Pablo
+ * @author Pablo //
  */
 public class EDPRUEBA {
 	/**
